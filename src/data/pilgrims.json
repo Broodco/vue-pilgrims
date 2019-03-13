@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Consul",
+        "desc":"The Consul",
+        "img":"../../assets/lorem.png",
+        "origin":""
+    },
+    {
+        "name":"Hoyt",
+        "desc":"Priest",
+        "img":"../../assets/lorem.png",
+        "origin":""
+    },
+    {
+        "name":"Kassar",
+        "desc":"Colonel",
+        "img":"../../assets/lorem.png",
+        "origin":""
+    },
+    {
+        "name":"Sol",
+        "desc":"Scholar",
+        "img":"../../assets/lorem.png",
+        "origin":""
+    }
+]
